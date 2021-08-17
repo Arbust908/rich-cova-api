@@ -55,14 +55,14 @@ exports.addOne = (req, res) => {
   });
 };
 
-exports.patchAll = (req, res) => {
-  const newHero = req.body;
-  infos.hero = newHero;
-  fs.writeFile(path.join(__dirname, dbPath), JSON.stringify(infos), (err) => {
-    console.log(err);
-    res.status(201).json({
-      status: "success",
-      data: { ...hero },
-    });
-  });
-};
+// exports.patchAll = (req, res) => {
+//   const newHero = req.body;
+//   infos.hero = newHero;
+//   fs.writeFile(path.join(__dirname, dbPath), JSON.stringify(infos), (err) => {
+//     console.log(err);
+//     res.status(201).json({
+//       status: "success",
+//       data: { ...hero },
+//     });
+//   });
+// };
