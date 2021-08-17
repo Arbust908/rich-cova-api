@@ -1,0 +1,14 @@
+[
+    {
+        "id": 25364,
+        "username": "RichCova",
+        "password": "richWeb2021",
+        "permission": 9
+    },
+    {
+        "id": 45050,
+        "username": "Admin",
+        "password": "nuxtAdmin2020",
+        "permission": 99
+    }
+]

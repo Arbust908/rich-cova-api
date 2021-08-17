@@ -1,0 +1,71 @@
+{
+    "socials": {
+        "facebook": "https://facebook.com/richcovaok/",
+        "instagram": "https://instagram.com/richcova/",
+        "youtube": "https://youtube.com/channel/UCGn0RPDob9Ohaux-xUIAbog/",
+        "tienda": "https://richtiendashop.com/",
+        "turnera": "https://mobile.wonoma.com/#/centro/564/",
+        "whatsapp": "https://wa.me/5491138766488?text=Hola%20Rich%20tengo%20una%20Constula!"
+    },
+    "policies": [
+        "El Estudió se reserva el derecho de Admisión",
+        "Solamente podrás asistir con acompañantes menores de edad (solo 1 acompañante podrá ingresar).",
+        "Las reservas son un compromiso con la empresa, hagan uso siempre y cuando tengan seguridad de asistir.",
+        "Puntualidad (excluyente). La tolerancia máxima de espera es de 10 minutos. NO HABRÁN EXCEPCIONES, caso contrario no se atenderá, a nadie con más tiempo retrasado, perdiéndose el turno y la seña pagada con anticipación sin opción a reclamos.",
+        "Para poder acceder a un turno, solamente se podrá hacer abonando anticipadamente una seña",
+        "Las cancelaciones y/ó modificaciones solamente se podrá realizar con 24/48h de anticipación, caso contrario no se podrán cancelar ni modificar, periéndose la seña abonada sin derecho a reclamos.",
+        "Cualquier disconformidad debe ser resuelta una vez vean el resultado en el estudio, no después",
+        "Si surge la necesidad de un retoque, debe ser dentro de la primer semana cumplido nuestro servicio (vía WhatsApp o Mail) siempre y cuando haya un error existente por nuestra parte. Caso contrario, no se procederá a retocar de manera gratuita.",
+        "Atendemos todo tipo de cabellos incluyendo lacios que sean naturales y no logrados con químicos alisadores, botox, queratina con o sin formol.",
+        "Nuestro estudio promueve la forma natural del cabello. En caso de no cumplir con las condiciones para trabajar y desarrollar nuestro servicio, no se procederá y se devolverá la seña en casos particulares.",
+        "Atendemos niñxs mayores de 6 años con predisposición a cortarse y estar sin moverse al momento del servicio.",
+        "Condiciones de cualquier servicio (corte-color). Para mejor desarrollo de nuestro trabajo solicitamos: - Cabello LIMPIO y SECO -Con o sin finalizador. Es caso de aplicar, necesitamos que sea sin saturarlo o cargarlo de mucha crema ó gel. - Evita marcarlo con colita o dejarlo tirante, ya que de esa manera no podemos ver la naturaleza de tu cabello. Es caso de que te sientas incomoda usa un broche flojo o una colita bien floja sin estirar tu raíz.",
+        "Leer la descripción del servicio antes de hacer una reserva en la agenda virtual que ofrecemos. Cada servicio tiene una adjuntada.",
+        "Cualquier duda/consulta/cancelación, tenemos nuestos medios de contacto. WhatsApp +54 911 3876/6488. Ó rulologorichcova@gmail.com",
+        "En contexto de cuarentena, es obligatorio acceder con barbijos FUNCIONALES y bien ajustados. En caso de no ser asi, nosotros proporcionaremos uno descartable. No se podrá retirar en ningún momento dentro del establecimiento."
+    ],
+    "images": [
+        {
+            "titulo": "Persona 1",
+            "texto": null,
+            "fecha": "Ene 1, 2020",
+            "src": "BA-1.jpg"
+        },
+        {
+            "titulo": "Persona 2",
+            "texto": null,
+            "fecha": "Ene 1, 2020",
+            "src": "BA-2.jpg"
+        },
+        {
+            "titulo": "Persona 3",
+            "texto": null,
+            "fecha": "Ene 1, 2020",
+            "src": "BA-3.jpg"
+        }
+    ],
+    "hero": {
+        "titulo": [
+            "Rich Cova",
+            "Rulologo"
+        ],
+        "subtitle": "Estudio de peluquería especializado en cabellos ondulados, rizados y afros.",
+        "buttons": {
+            "main": {
+                "title": "Sacar Turno"
+            },
+            "second": {
+                "title": "Tienda online",
+                "link": "https://richtiendashop.mitiendanube.com/"
+            }
+        },
+        "heroSrc": "rulologo.jpg"
+    },
+    "subscribers": [
+        {
+            "name": "Rich Cova",
+            "email": "@richcova.com",
+            "time": "2021-08-17T20:12:48.632Z"
+        }
+    ]
+}
