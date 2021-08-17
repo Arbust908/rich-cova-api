@@ -36,9 +36,9 @@ exports.validateID = (req, res, next, token) => {
 exports.getAll = (req, res) => {
   res.status(200).json({
     status: "success",
-    results: hero.length,
+    results: subs.length,
     reqTime: req.requestTime,
-    data: { ...hero },
+    data: { ...subs },
   });
 };
 
