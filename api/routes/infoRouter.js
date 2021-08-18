@@ -14,9 +14,9 @@ router.route(`/social/`).get(socialController.getAll);
 router.route(`/policies/`).get(policyController.getAll);
 router.route(`/images/`).get(imagesController.getAll);
 router.route(`/hero/`).get(heroController.getAll);
+router.route(`/subs/`).post(subController.addOne);
 
 router.route(`/subs/:token`).get(subController.getAll);
-router.route(`/subs/:token`).post(subController.addOne);
 router.route(`/social/:token`).patch(socialController.patchAll);
 router.route(`/policies/:token`).patch(policyController.patchAll);
 router.route(`/images/:token`).patch(imagesController.patchAll);
