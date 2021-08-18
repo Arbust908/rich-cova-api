@@ -7,3 +7,4 @@
 *.old
 
 ./api/DB/data/*.json
+.\api\DB\data\*.json

@@ -44,7 +44,7 @@ exports.getAll = (req, res) => {
 
 exports.addOne = (req, res) => {
   const newSub = req.body;
-  subs = subs.push(newSub);
+  subs.push(newSub);
   info.subs = subs;
   fs.writeFile(path.join(__dirname, dbPath), JSON.stringify(info), (err) => {
     console.log(err);
